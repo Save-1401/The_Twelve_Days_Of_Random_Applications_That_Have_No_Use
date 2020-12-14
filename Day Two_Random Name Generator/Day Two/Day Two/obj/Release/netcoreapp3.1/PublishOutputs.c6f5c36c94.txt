@@ -1,0 +1,5 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two Build\Day Two.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two Build\Day Two.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two Build\Day Two.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two Build\Day Two.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two Build\Day Two.pdb

@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\bin\Release\netcoreapp3.1\Day Two.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Two_Random Name Generator\Day Two\Day Two\obj\Release\netcoreapp3.1\Day Two.genruntimeconfig.cache
