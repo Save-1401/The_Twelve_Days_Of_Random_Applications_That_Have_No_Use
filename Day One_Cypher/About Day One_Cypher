@@ -1,3 +1,7 @@
 This is the first project of The_Twelve_Days_Of_Random_Applications_That_Have_No_Use. It is a cypher. The same seed will always generate the same cypher, so if you need
 to decypher anything after you have changed the cypher, just change the seed to the one you used to cypher it, and type it in (Make sure to use a backslash \ as the first
 character to tell the program that you want it to decypher).
+
+Say you, theoreticaly, found use for this useless application, which is impossible, since it is designed to be entirely useless, that use could, theoreticaly (remember, it 
+is useless, and this is all a very false, very theoretical, theory), be sending encrypted messages between you and your friend. Of course, this is all theoretical, and this 
+program cannot possibly have a use such as this, or frankly, any use at all.
