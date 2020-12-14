@@ -30,11 +30,12 @@ namespace Day_One
             //Tells the user the commands
             Console.WriteLine("\"/\" to tell the program to scramble the following text,");
             Console.WriteLine("\"\\\" to tell the program to unscramble the following text,");
-            Console.WriteLine("\"~cc\" to change the cypher's seed, and");
+            Console.WriteLine("\"~gc\" to get the cypher code,");
+            Console.WriteLine("\"~cc\" to change the cypher, and");
             Console.WriteLine("\"~q\" to quit");
-            //Gets the seed the user inputs
-            Console.Write("Enter a seed: ");
-            cypher = GenerateCypher(Convert.ToInt32(Console.ReadLine()));
+            //Gets the cypher code the user inputs
+            Console.Write("Enter a cypher code: ");
+            cypher = SetCypherWithCode(Console.ReadLine().ToCharArray());
             backCypher = GenerateBackCypher(cypher);
 
             //Wether or not the program should keep running at the end of the loop
@@ -47,11 +48,16 @@ namespace Day_One
                 string input = Console.ReadLine();
 
                 //Checks of the user input is either of the two commands, otherwise cyphers or decyphers the input, also makes sure something is actually being entered
-                if (input == "~cc")
+                if (input == "~gc")
                 {
-                    //Gets the seed the user inputs
-                    Console.Write("Enter a seed: ");
-                    cypher = GenerateCypher(Convert.ToInt32(Console.ReadLine()));
+                    //Gets and prints the cypher code
+                    Console.WriteLine(GetCypherCode(cypher));
+                }
+                else if (input == "~cc")
+                {
+                    //Gets the cypher code the user inputs
+                    Console.Write("Enter a cypher code: ");
+                    cypher = SetCypherWithCode(Console.ReadLine().ToCharArray());
                     backCypher = GenerateBackCypher(cypher);
                 }
                 else if (input == "~q")
@@ -137,7 +143,11 @@ namespace Day_One
             //Returns the created back cypher
             return backCypher;
         }
-
+        /// <summary>
+        /// Puts a char array, toCypher, through the cypher.
+        /// </summary>
+        /// <param name="toCypher"></param>
+        /// <returns>The cyphered string</returns>
         public static string CypherString(char[] toCypher)
         {
             //Again, the output (and again, pretty self explanatory, but, again, I thought I'd put this here anyway)
@@ -152,7 +162,11 @@ namespace Day_One
             //returns the output
             return output;
         }
-
+        /// <summary>
+        /// Puts a char array, toUnCypher, through the back cypher
+        /// </summary>
+        /// <param name="toUnCypher"></param>
+        /// <returns>The un-cyphered string</returns>
         public static string UnCypherString(char[] toUnCypher)
         {
             //Last time, I promise. The output (pretty self explanatory, but I thought I'd put this here anyway)
@@ -166,6 +180,52 @@ namespace Day_One
 
             //returns the output
             return output;
+        }
+        /// <summary>
+        /// Gets the cypher's code
+        /// </summary>
+        /// <param name="cypher"></param>
+        /// <returns></returns>
+        public static string GetCypherCode(Dictionary<char, char> cypher)
+        {
+            //The cypher code
+            string code = "";
+
+            //Creates the code
+            foreach (char c in availableCharacters)
+            {
+                code += cypher[c];
+            }
+
+            //Returns the created code
+            return code;
+        }
+        /// <summary>
+        /// Makes a cypher out of the given cypher code
+        /// </summary>
+        /// <param name="cypherCode"></param>
+        /// <returns></returns>
+        public static Dictionary<char, char> SetCypherWithCode(char[] cypherCode)
+        {
+            //The cypher being created
+            Dictionary<char, char> cypher = new Dictionary<char, char>();
+
+            //Checks if the avialable character and the cypher code are the same length, if not creates a new cypher not using the code
+            if (cypherCode.Length != availableCharacters.Length)
+            {
+                cypher = GenerateCypher(cypherCode.Length);
+
+                //Returns the created cypher
+                return cypher;
+            }
+
+            for (int i = 0; i < cypherCode.Length; i++)
+            {
+                cypher.Add(availableCharacters[i], cypherCode[i]);
+            }
+
+            //Returns the created cypher
+            return cypher;
         }
     }
 }
