@@ -5,10 +5,6 @@ namespace Day_One
 {
     class Program
     {
-        /*/// <summary>
-        /// The seed the program uses to generate the cypher
-        /// </summary>
-        static int seed = 0;*/
         /// <summary>
         /// The cypher itself
         /// </summary>
