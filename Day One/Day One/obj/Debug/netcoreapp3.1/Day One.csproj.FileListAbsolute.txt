@@ -1,4 +1,3 @@
-C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day One\Day One\obj\Debug\netcoreapp3.1\Day One.csprojAssemblyReference.cache
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day One\Day One\obj\Debug\netcoreapp3.1\Day One.AssemblyInfoInputs.cache
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day One\Day One\obj\Debug\netcoreapp3.1\Day One.AssemblyInfo.cs
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day One\Day One\obj\Debug\netcoreapp3.1\Day One.csproj.CoreCompileInputs.cache
