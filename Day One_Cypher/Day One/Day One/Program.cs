@@ -82,7 +82,7 @@ namespace Day_One
                     }
                     else
                     {
-                        output = CypherString(inputCA);
+                        output = CypherString(input.ToCharArray());
                     }
                     //Writes the output
                     Console.WriteLine(output);
@@ -109,7 +109,7 @@ namespace Day_One
             foreach (char c in availableCharacters)
             {
                 //Gets a random character to cypher to, then adds it to the dictionaty
-                char cypherTo = usableCharaters[new Random().Next(0, usableCharaters.Count)];
+                char cypherTo = usableCharaters[new Random(seed).Next(0, usableCharaters.Count)];
                 cypher.Add(c, cypherTo);
 
                 //Removes the character from the usable character array, so that no character is used twice 

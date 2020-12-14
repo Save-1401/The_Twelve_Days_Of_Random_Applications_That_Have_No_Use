@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One\\Day One\\Day One.csproj",
+      "projectUniqueName": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One_Cypher\\Day One\\Day One\\Day One.csproj",
       "projectName": "Day One",
-      "projectPath": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One\\Day One\\Day One.csproj",
+      "projectPath": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One_Cypher\\Day One\\Day One\\Day One.csproj",
       "packagesPath": "C:\\Users\\Matth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One\\Day One\\obj\\",
+      "outputPath": "C:\\Users\\Matth\\Documents\\GitHub\\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\\Day One_Cypher\\Day One\\Day One\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matth\\AppData\\Roaming\\NuGet\\NuGet.Config",
