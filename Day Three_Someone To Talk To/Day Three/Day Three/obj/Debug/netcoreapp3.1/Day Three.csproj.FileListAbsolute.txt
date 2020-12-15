@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\bin\Debug\netcoreapp3.1\Day Three.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Three_Someone To Talk To\Day Three\Day Three\obj\Debug\netcoreapp3.1\Day Three.genruntimeconfig.cache
