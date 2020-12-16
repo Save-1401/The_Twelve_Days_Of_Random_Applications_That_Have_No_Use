@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\bin\Debug\netcoreapp3.1\Day Four.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Four_Random Application Generator\Day Four\Day Four\obj\Debug\netcoreapp3.1\Day Four.genruntimeconfig.cache
