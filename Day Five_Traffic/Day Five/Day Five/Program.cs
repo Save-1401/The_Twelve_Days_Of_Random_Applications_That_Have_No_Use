@@ -30,7 +30,7 @@ namespace Day_Five
                     Console.Clear();
                     Console.WriteLine(camera.Render(cars, player));
                     //Tells the player how to play
-                    Console.WriteLine("WASD or arrow keys to move.");
+                    Console.WriteLine("WASD or arrow keys to move. You are the 00 car.");
                     //Moves the cars
                     foreach (Car car in cars)
                     {

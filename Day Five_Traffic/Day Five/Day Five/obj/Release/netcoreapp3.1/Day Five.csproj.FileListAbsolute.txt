@@ -10,3 +10,4 @@ C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Release\netcoreapp3.1\Day Five.dll
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Release\netcoreapp3.1\Day Five.pdb
 C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Release\netcoreapp3.1\Day Five.genruntimeconfig.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Release\netcoreapp3.1\Day Five.csprojAssemblyReference.cache
