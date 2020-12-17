@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\bin\Debug\netcoreapp3.1\Day Five.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Five_Traffic\Day Five\Day Five\obj\Debug\netcoreapp3.1\Day Five.genruntimeconfig.cache
