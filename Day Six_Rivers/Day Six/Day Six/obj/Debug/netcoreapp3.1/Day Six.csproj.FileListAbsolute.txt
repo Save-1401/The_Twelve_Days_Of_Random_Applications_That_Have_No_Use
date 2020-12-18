@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\bin\Debug\netcoreapp3.1\Day Six.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Six_Rivers\Day Six\Day Six\obj\Debug\netcoreapp3.1\Day Six.genruntimeconfig.cache
