@@ -1,0 +1,5 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven Build\Day Seven.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven Build\Day Seven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven Build\Day Seven.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven Build\Day Seven.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven Build\Day Seven.pdb

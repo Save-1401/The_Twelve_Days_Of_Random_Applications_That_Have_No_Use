@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\bin\Debug\netcoreapp3.1\Day Seven.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Seven_Abstract Art\Day Seven\Day Seven\obj\Debug\netcoreapp3.1\Day Seven.genruntimeconfig.cache
