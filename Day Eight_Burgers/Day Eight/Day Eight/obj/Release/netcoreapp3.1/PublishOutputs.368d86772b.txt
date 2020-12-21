@@ -1,0 +1,5 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eight_Burgers\Day Eight Build\Day Eight.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eight_Burgers\Day Eight Build\Day Eight.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eight_Burgers\Day Eight Build\Day Eight.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eight_Burgers\Day Eight Build\Day Eight.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eight_Burgers\Day Eight Build\Day Eight.pdb
