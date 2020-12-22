@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\bin\Release\netcoreapp3.1\Day Nine.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Nine_Word Stuff\Day Nine\Day Nine\obj\Release\netcoreapp3.1\Day Nine.genruntimeconfig.cache
