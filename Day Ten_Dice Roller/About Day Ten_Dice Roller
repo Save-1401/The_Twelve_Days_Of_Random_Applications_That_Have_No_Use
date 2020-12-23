@@ -1,0 +1,2 @@
+Enter a seed. Enter a number of dice sides. It will return a random number between the 1 and the number of dice sides. If you don't enter a number of dice sides it will use 
+the last number of dice sides entered as the number of dice sides.
