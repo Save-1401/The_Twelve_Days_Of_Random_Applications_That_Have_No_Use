@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\bin\Release\netcoreapp3.1\Day Ten.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Ten_Dice Roller\Day Ten\Day Ten\obj\Release\netcoreapp3.1\Day Ten.genruntimeconfig.cache
