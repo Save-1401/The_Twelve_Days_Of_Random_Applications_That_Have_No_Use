@@ -1,0 +1,5 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven Build\Day Eleven.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven Build\Day Eleven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven Build\Day Eleven.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven Build\Day Eleven.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven Build\Day Eleven.pdb

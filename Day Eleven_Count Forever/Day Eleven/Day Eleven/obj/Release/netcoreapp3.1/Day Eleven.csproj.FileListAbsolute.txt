@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\bin\Release\netcoreapp3.1\Day Eleven.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Eleven_Count Forever\Day Eleven\Day Eleven\obj\Release\netcoreapp3.1\Day Eleven.genruntimeconfig.cache
