@@ -1,0 +1,13 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.runtimeconfig.dev.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\bin\Debug\netcoreapp3.1\Day Twelve.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.csprojAssemblyReference.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.AssemblyInfoInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.AssemblyInfo.cs
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.csproj.CoreCompileInputs.cache
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.pdb
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve\Day Twelve\obj\Debug\netcoreapp3.1\Day Twelve.genruntimeconfig.cache

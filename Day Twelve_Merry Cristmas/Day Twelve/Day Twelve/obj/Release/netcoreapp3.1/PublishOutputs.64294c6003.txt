@@ -1,0 +1,5 @@
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve Build\Day Twelve.exe
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve Build\Day Twelve.dll
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve Build\Day Twelve.deps.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve Build\Day Twelve.runtimeconfig.json
+C:\Users\Matth\Documents\GitHub\The_Twelve_Days_Of_Random_Applications_That_Have_No_Use\Day Twelve_Merry Cristmas\Day Twelve Build\Day Twelve.pdb
